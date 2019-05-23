@@ -1,0 +1,26 @@
+header .navbar{
+  background-color: lightgreen;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
+.navbar ul li a{
+  color: green;
+  text-transform: uppercase;
+}
+
+.navbar .navbar-brand{
+  color: #101010;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.navbar-toggle .icon-bar{
+  background-color: black;
+}
+
+.btn.btn-primary{
+  background-color: lightgreen;
+  border-color: lightgreen;
+  color: #101010;
+}
+
